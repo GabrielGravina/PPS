@@ -1,0 +1,10 @@
+Pessoal. Façam esses exercicios para a a aula de amanha
+**1. ** Implemente um contador de cliques que notifique a quem estiver interessado sempre que o número de cliques mudar.
+
+**2. ** Implemente um sistema de alerta de temperatura que envie notificações para seus observadores sempre que a temperatura mudar.
+
+**3. ** Implemente um sistema de notícias que notifique aos interessados sempre que uma nova notícia for publicada.
+
+**4. ** Implemente um sistema de estoque que envie notificações para aqueles que monitoram sempre que a quantidade de um produto mudar.
+
+**5. ** Implemente um sistema de chat que envie notificações para outros clientes sempre que uma nova mensagem for enviada.

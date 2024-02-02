@@ -1,0 +1,50 @@
+1. Crie uma aplicação de construção de veículos:
+ Defina uma interface abstrata para os tipos de veículos (carro, moto,
+caminhão).
+ Implemente fábricas abstratas para diferentes tipos de veículos (exemplo:
+fábrica de veículos elétricos, fábrica de veículos a combustível).
+ Implemente classes concretas para cada tipo de veículo em ambas as
+fábricas.
+2. Desenvolva um sistema de widgets para uma GUI:
+ Crie uma hierarquia de classes para botões, caixas de texto e menus.
+ Defina uma fábrica abstrata para cada tipo de widget.
+ Implemente fábricas concretas para diferentes estilos de GUI (por exemplo,
+estilo moderno, estilo clássico).
+3. Simulação de construção de casas:
+ Defina uma hierarquia de classes para diferentes partes de uma casa
+(fundação, paredes, telhado).
+ Crie uma fábrica abstrata para cada parte da casa.
+ Implemente fábricas concretas para diferentes estilos arquitetônicos (por
+exemplo, estilo contemporâneo, estilo colonial).
+Exercícios para o padrão Factory Method:
+
+1. Crie um sistema de carregamento de documentos:
+ Defina uma classe abstrata para documentos.
+ Implemente métodos de carregamento em subclasses concretas (PDF,
+Word, HTML).
+ Utilize o Factory Method para criar instâncias de documentos de acordo com
+o tipo de arquivo.
+2. Desenvolva um jogo com diferentes tipos de inimigos:
+ Crie uma classe abstrata para representar inimigos.
+ Implemente subclasses para diferentes tipos de inimigos (soldado, monstro,
+chefe).
+ Use o Factory Method para criar instâncias de inimigos conforme o
+progresso do jogo.
+3. Implemente um sistema de leitura de arquivos de configuração:
+ Defina uma classe abstrata para leitores de configuração.
+ Implemente leitores concretos para formatos específicos (JSON, XML,
+YAML).
+ Utilize o Factory Method para instanciar o leitor apropriado com base no tipo
+de arquivo de configuração.
+4. Construa um sistema de registro de eventos:
+ Crie uma hierarquia de classes para representar diferentes tipos de eventos
+(erro, aviso, informativo).
+ Implemente um Factory Method para criar instâncias de eventos com base
+no tipo.
+5. Desenvolva um sistema de geração de relatórios:
+ Defina uma interface abstrata para relatórios.
+
+ Implemente diferentes tipos de relatórios (PDF, CSV, HTML) como
+subclasses.
+ Utilize o Factory Method para criar instâncias de relatórios conforme
+necessário.
